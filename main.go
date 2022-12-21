@@ -16,7 +16,7 @@ func add(num1 int16, num2 int16) {
 	//		The second number which is the adder of the first number
 	//		Note: type of int16 --> 16 bytes like above.
 
-	fmt.Println(num1 - num2)
+	fmt.Println(num1 + num2)
 }
 
 func subtract(num1 int16, num2 int16) {
@@ -36,5 +36,4 @@ func subtract(num1 int16, num2 int16) {
 
 func main() { 
 	// The main function of the program, doesn't recieve any argument unlike the other functions
-	
 }
